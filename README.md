@@ -12,7 +12,7 @@ Join Our Discord - https://discord.gg/XuywETpQRf
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Get the repository:**
 
    wget https://github.com/arkabhai/CDC-1.x/releases/download/v1.x-alpha/CDC-1.x.zip
 
@@ -21,13 +21,14 @@ Join Our Discord - https://discord.gg/XuywETpQRf
    cd CDC-1.x
 
 3. **Install dependencies:**
+
     npm install
 
-4. **Configure your bot:**
+5. **Configure your bot:**
     - Navigate to `.env.ecample(change it to .env)` and add your bot token.
     - Add other configurations as needed.
 
-5. **Run the bot:**
+6. **Run the bot:**
     node index.js
 
 ## Usage
