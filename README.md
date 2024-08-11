@@ -11,17 +11,18 @@ Welcome to the Discord Bot Card Details Checker! This bot helps in verifying car
 ## Installation
 
 1. **Clone the repository:**
-    git clone
-    cd
+    git clone https://github.com/arkabhai/CDC-1.x.git
 
-2. **Install dependencies:**
+   cd CDC-1.x
+
+3. **Install dependencies:**
     npm install
 
-3. **Configure your bot:**
+4. **Configure your bot:**
     - Navigate to `.env.ecample(change it to .env)` and add your bot token.
     - Add other configurations as needed.
 
-4. **Run the bot:**
+5. **Run the bot:**
     node index.js
 
 ## Usage
