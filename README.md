@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the Discord Bot Card Details Checker! This bot helps in verifying card details within your Discord server efficiently.
 
+Join Our Discord - https://discord.gg/XuywETpQRf
+
 ## Features
 - **Real-time Card Verification**: Instantly checks the validity of card details.
 - **User-friendly Commands**: Easy to use and integrate with your Discord server.
