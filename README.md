@@ -11,7 +11,7 @@ Welcome to the Discord Bot Card Details Checker! This bot helps in verifying car
 ## Installation
 
 1. **Clone the repository:**
-    git clone https://github.com/arkabhai/CDC-1.x.git
+   git clone https://github.com/arkabhai/CDC-1.x.git
 
    cd CDC-1.x
 
