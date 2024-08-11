@@ -33,7 +33,7 @@ Welcome to the Discord Bot Card Details Checker! This bot helps in verifying car
 Fetches and displays data from the API. Example usage: !cc 53635000073xxxxx|0x|20xx|28x
 - **!allow** <user> only for admin.
 Allows a specified user to use the !cc command.
-- **block <user>**
+- **!block <user>**
 Blocks a specified user from using the !cc command.
 - **!help**
 Displays this help message.
